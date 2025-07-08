@@ -52,6 +52,16 @@
   &emsp;
 </p>
 
+### 👉 Documentations
+ 
+<p>
+  &emsp;
+    <a href="https://github.com/sasisathya/dsa_doc">DSA Basics</a>
+  &emsp;
+    <a href="https://github.com/sasisathya/dsa_doc/tree/main/mongodb#readme">MongoDB Design Patterns</a>
+  &emsp;
+</p>
+
 <br/>
 
 ## 🔥 LeetCode Stats
