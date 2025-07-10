@@ -60,6 +60,8 @@
   &emsp;
     <a href="https://github.com/sasisathya/dsa_doc/tree/main/mongodb#readme">MongoDB Design Patterns</a>
   &emsp;
+    <a href="https://github.com/sasisathya/dsa_doc/tree/main/Design%20Patterns#-microservices-architecture-small-is-mighty">MicroServices Design Patterns</a>
+  &emsp;	
 </p>
 
 <br/>
