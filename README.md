@@ -13,7 +13,7 @@
 
 <p align="left"> 
   &emsp;
-  <a href="https://nodejs.org/en" target="_blank"><img style="" data-image-id="54087" srcset="https://img.icons8.com/?size=48&amp;id=54087&amp;format=png 1x, https://img.icons8.com/?size=96&amp;id=54087&amp;format=png 2x" width="48" height="48" alt="Nodejs icon" data-v-c07f444a=""></a> 
+  <a href="https://nodejs.org/en" target="_blank"><img style="" data-image-id="54087" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" width="48" height="48" alt="Nodejs icon" data-v-c07f444a=""></a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white" /></a> 
   &emsp; 
