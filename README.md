@@ -1,18 +1,27 @@
-<h1 align="center">Hi 👋, I'm Sajja Sasi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Full Stack Developer | Data Structures & Algorithms Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Sasi Sajja <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">Full Stack Developer | Node.js, React.js, MongoDB, GCP, AWS | Microservices | 7+ YOE</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sasisathya&label=Profile%20views&color=0e75b6&style=flat" alt="sasisathya" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Node.js+%7C+React.js+Expert;JavaScript+Enthusiast;DSA+%26+System+Design;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;7%2B+Years+of+Experience;Node.js+%7C+React.js+%7C+Java+Spring+Boot;Microservices+%26+System+Design;CI/CD+%7C+AWS+%7C+GCP+%7C+Kafka;Problem+Solver+%26+Algorithm+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
-- 🔭 I'm currently working on **scalable web applications with React and Node.js**
-- 🌱 I'm focused on **Data Structures, Algorithms, and System Design**
+### 👨‍💻 About Me
+
+I have developed a strong passion for writing code ever since I wrote my first program in C. This experience has ignited my obsession with using software to solve practical problems.
+
+**✔ Scientist at heart, Engineer by passion 💪**
+
+- 🔭 I'm currently working on **scalable microservices architectures with Node.js, React.js, and Java Spring Boot**
+- 🌱 I'm focused on **Data Structures, Algorithms, System Design, and Cloud Technologies (AWS, GCP)**
+- 💼 **7+ years of experience** in Full Stack Development
+- 🚀 Specialized in **Microservices, CI/CD, Kafka, MongoDB, and building user-friendly solutions**
+- 🎯 My goal is to tackle complex problems by leveraging efficient code and finding straightforward solutions
 - 📚 Check out my documentation:
   - [DSA Basics](https://github.com/sasisathya/dsa_doc?tab=readme-ov-file#array)
   - [MongoDB Design Patterns](https://github.com/sasisathya/dsa_doc/tree/main/mongodb#readme)
@@ -41,11 +50,22 @@
 
 ---
 
-### Languages & Tools
+### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,redux,js,ts,html,css,sass,cpp,python,cs,mongodb,mysql,redis,aws,firebase,git,github,vscode,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,redux,vue,angular,express,kafka,js,ts,php,python,cpp,cs" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,postgres,aws,gcp,firebase,docker,kubernetes,git,github,gitlab,jenkins,linux,vscode" />
+</p>
+
+**Backend:** Node.js, Express.js, Java Spring Boot, PHP (Laravel, CodeIgniter)
+**Frontend:** React.js, Vue.js, Angular, Redux, HTML, CSS, JavaScript, TypeScript
+**Databases:** MongoDB, MySQL, PostgreSQL, Redis
+**Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, CI/CD, Jenkins
+**Message Queue:** Kafka
+**Tools:** Git, VS Code, Power BI
 
 ---
 
